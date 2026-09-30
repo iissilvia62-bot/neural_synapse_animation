@@ -20,10 +20,6 @@ JavaScript
 Clone or download this repository.
 Open the HTML file in any modern web browser.
 The animation will run directly without requiring any additional installation.
-git clone https://github.com/username/neural_synapse_animation.git
-Then open:
-index.html
-🎓 Educational Purpose
 
 This animation is designed as a simple visual learning tool to help students understand how nerve signals travel through neurons and cross the synaptic gap.
 It can be used for classroom demonstrations, science learning, biology projects, or interactive educational media.
